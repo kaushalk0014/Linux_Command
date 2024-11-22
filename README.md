@@ -1,4 +1,4 @@
-# Linux_Command
+# Linux_Command with discripation 
 
 $ cd : Change directly
 $ cp : Copy
